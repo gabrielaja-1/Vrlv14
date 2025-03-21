@@ -4,7 +4,7 @@
     7939710484,
     17939710484
   ],
-  "allowed_ips": ["172.18.5.3", "203.0.113.5"],
+  "allowed_ips": ["172.18.0.3", "203.0.113.5"],
   "tokens": [
     "7923076494:AAErASe2U1KvplbunJpASCGYWGumbZQaa94",
     "7939710484:AAG2GKpgFQqShyiwRH01SQkfA7CDmKjoP9c",
